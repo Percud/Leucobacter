@@ -1,10 +1,17 @@
 # <i>Leucobacter</i> sp. AEAR - draft genome
 
-A genome of a new bacterial species identified as contaminant of <i>Caenorhabditis</i> entries in GeneBank.
-
+<table><tr><td>
+<h3>A genome of a new bacterial species identified as contaminant of <i>Caenorhabditis</i> entries in GeneBank.</h3>
+<br><br>
+DNA of apparently recent bacterial origin is found in the genomic sequences of <i>Caenorhabditis angaria</i> and <i>Caenorhabditis remanei</i>. This DNA belongs to a single species of the genus <i>Leucobacter</i> (high-GC Gram+ Actinobacteria). Metagenomic tools enabled the assembly of the contaminating sequences in a draft genome of 3.2 Mb harboring 2,826 genes. This information provides insight into a microbial organism intimately associated with <i>Caenorhabditis</i> as well as a solid basis for the reassignment of 3,373 metazoan entries of the public database to a novel bacterial species (<i>Leucobacter</i> sp. AEAR). 
+<br><br>
 Percudani R (2013). A Microbial Metagenome (Leucobacter sp.) in Caenorhabditis Whole Genome Sequences. Bioinform Biol Insights. Feb 24;7:55-72.
+<br>
 
-  
+</td>
+<td>
+<img src="https://cloud.githubusercontent.com/assets/16157185/11608496/98e4abf2-9b6b-11e5-9a2b-8559a26ed66d.png" width="300">
+</td></tr></table>  
   Lsp41_contigs.fa: Velvet contigs — optimized bacterial assembly.
   
   Lsp41_scaffolds.fa: Bambus scaffolds + unlinked contigs (>1000 bp.).
