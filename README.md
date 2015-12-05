@@ -1,7 +1,7 @@
 # <i>Leucobacter</i> sp. AEAR - draft genome
 
 <table><tr><td>
-<h3>A genome of a new bacterial species identified as contaminant of <i>Caenorhabditis</i> entries in GeneBank.</h3>
+<h3>A genome of a new bacterial species identified as contaminant of <i>Caenorhabditis</i> entries in GenBank.</h3>
 <br><br>
 DNA of apparently recent bacterial origin is found in the genomic sequences of <i>Caenorhabditis angaria</i> and <i>Caenorhabditis remanei</i>. This DNA belongs to a single species of the genus <i>Leucobacter</i> (high-GC Gram+ Actinobacteria). Metagenomic tools enabled the assembly of the contaminating sequences in a draft genome of 3.2 Mb harboring 2,826 genes. This information provides insight into a microbial organism intimately associated with <i>Caenorhabditis</i> as well as a solid basis for the reassignment of 3,373 metazoan entries of the public database to a novel bacterial species (<i>Leucobacter</i> sp. AEAR). 
 <br><br>
